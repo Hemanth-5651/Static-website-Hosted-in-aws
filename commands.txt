@@ -1,0 +1,14 @@
+creating an virtual environment:
+python -m venv my_env
+
+activate environment:
+my_env\Scripts\activate
+
+installing Django using python:
+python3 -m pip install Django
+
+creating Django project:
+django-admin startproject mypage
+
+Run Django project:
+python manage.py runserver 
